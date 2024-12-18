@@ -460,6 +460,11 @@ footer p {
   .offer_text {
     font-size: 20px;
   }
+
+  .text_2 {
+    font-size: 12px !important;
+  }
+
   .offer__description {
     font-size: 18px;
   }
